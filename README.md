@@ -43,3 +43,8 @@ https://arxiv.org/pdf/1307.7291.pdf
 Predicting Tags for StackOverflow Posts
 https://pdfs.semanticscholar.org/8be3/99ced0f035d11ba4d64f459e77091dbc74d6.pdf
 
+What are developers talking about? An analysis of topics and trends in Stack Overflow
+https://link.springer.com/article/10.1007/s10664-012-9231-y
+
+Exploiting Content Quality and Question Difficulty in CQA Reputation Systems
+https://link.springer.com/chapter/10.1007/978-3-319-28361-6_6
