@@ -63,3 +63,6 @@ https://link.springer.com/article/10.1007/s10664-012-9231-y
 
 Mining Successful Answers in Stack Overflow 
 https://dl.dropboxusercontent.com/u/3463652/PID3635881.pdf
+
+Readability Indices - 
+http://jklp.org/profession/papers/read/paper.htm
